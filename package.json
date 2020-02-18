@@ -1,6 +1,6 @@
 {
-  "name": "robofriends",
-  "homepage": "https://crewzul12.github.io/robofriends",
+  "name": "robotapi",
+  "homepage": "https://crewzul12.github.io/robotapi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
